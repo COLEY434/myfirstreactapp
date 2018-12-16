@@ -1,0 +1,7 @@
+.ok {
+  color: green;
+  background-color: yellow;
+  padding: 20px;
+  border: 1px solid cyan;
+  border-radius: 10px;
+}
